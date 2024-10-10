@@ -1,5 +1,5 @@
 {
-  "name": "guzlehttp/psr7",
+  "name": "guzlehttp/psr4",
   "description": "PSR-7 message implementation that also provides common utility methods",
   "license": "MIT",
   "require": {
