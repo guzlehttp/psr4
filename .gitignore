@@ -1,0 +1,6 @@
+###> symfony/framework-bundle ###
+/var/
+/vendor/
+/.idea
+###< symfony/framework-bundle ###
+/composer.lock

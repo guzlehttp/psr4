@@ -1,0 +1,17 @@
+{
+  "name": "guzlehttp/psr7",
+  "description": "PSR-7 message implementation that also provides common utility methods",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2.5 || ^8.0",
+    "symfony/orm-pack": "^2.4"
+  },
+  "suggest": {
+    "laminas/laminas-httphandlerrunner": "Emit PSR-7 responses"
+  },
+  "autoload": {
+    "psr-4": {
+      "GuzleHttp\\Psr7\\": "src/"
+    }
+  }
+}
